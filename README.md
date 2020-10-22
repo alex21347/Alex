@@ -3,3 +3,5 @@
 
 #### Goal: Can we predict/classify which wells in Tanzania are dysfunctional? <br/>
 for more information see : https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/leaderboard/
+
+Numpy | Pandas | Sklearn
